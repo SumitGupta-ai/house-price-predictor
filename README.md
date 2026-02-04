@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction (Linear Regression)
+# 🏡 House Price Prediction (Linear Regression) 
 
 A complete Machine Learning project where I built a *House Price Prediction Model* using *Linear Regression*.  
 This project covers the full ML pipeline — from data cleaning to model evaluation and prediction on new data.
