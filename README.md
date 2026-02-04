@@ -13,7 +13,7 @@ The goal of this project is to predict *house prices* based on different feature
 - Stories  
 - Driveway  
 - Recroom  
-- Heating  
+- Heating 
 - Air Conditioning  
 - Preferred Area  
 - And more...
