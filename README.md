@@ -6,6 +6,7 @@ This project covers the full ML pipeline — from data cleaning to model evaluat
 ---
 
 ## 📌 Project Overview
+
 The goal of this project is to predict *house prices* based on different features such as:
 - Lot Size  
 - Number of Bedrooms
